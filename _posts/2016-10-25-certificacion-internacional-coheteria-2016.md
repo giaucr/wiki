@@ -1,5 +1,5 @@
 ---
-title: "Certificación Internacional de Coheteria 2017"
+title: "Certificación Internacional de Coheteria 2016"
 date: 2016-10-25
 ---
 
@@ -63,8 +63,6 @@ Por su parte la Ing.  de Lemos destacó que para la UCR es muy importante tener 
 
 Más información al correo-e: leonora.delemos@ucr.ac.cr o al teléfono (506) 2511-5576.
 
-Artículo oficial: https://vinv.ucr.ac.cr/es/noticias/jovenes-universitarios-reciben-certificacion-internacional-en-coheteria
-
 Anexos.
 
 **Balls**:
@@ -74,3 +72,6 @@ Es organizado y auspiciado por la Asociación de Cohetería Tripoli (TRA, por su
 
 **ARLISS**:
 ARLISS es una competencia de cohetería combinada con robótica, efectuada en el mismo lugar. Fue creada por profesores y estudiantes del Programa de Desarrollo de Sistemas Espaciales de la Universidad de Stanford en EEUU, para incentivar la construcción de prototipos aeroespaciales en miniatura.
+
+
+**Artículo oficial**: [Link](https://vinv.ucr.ac.cr/es/noticias/jovenes-universitarios-reciben-certificacion-internacional-en-coheteria)
