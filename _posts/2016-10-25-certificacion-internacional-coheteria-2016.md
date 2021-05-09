@@ -1,5 +1,5 @@
 ---
-title: "Certificación Internacional de Coheteria 2016"
+title: "Certificación Internacional de Cohetería 2016"
 date: 2016-10-25
 ---
 
