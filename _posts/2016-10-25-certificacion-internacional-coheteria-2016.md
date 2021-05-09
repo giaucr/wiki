@@ -3,7 +3,7 @@ title: "Certificación Internacional de Coheteria 2017"
 date: 2016-10-25
 ---
 
-**Siete estudiantes de la Universidad de Costa Rica (UCR) y del Instituto Tecnológico de Costa Rica obtuvieron una certificación internacional  que los califica para construir y lanzar cohetes.**
+_Siete estudiantes de la Universidad de Costa Rica (UCR) y del Instituto Tecnológico de Costa Rica obtuvieron una certificación internacional  que los califica para construir y lanzar cohetes._
 
 ![Image](https://vinv.ucr.ac.cr/sites/default/files/styles/imagenes/public/1._certificacion-internacional.jpg?itok=MrVlsz6_)
 
