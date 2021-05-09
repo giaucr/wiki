@@ -74,4 +74,4 @@ Es organizado y auspiciado por la Asociación de Cohetería Tripoli (TRA, por su
 ARLISS es una competencia de cohetería combinada con robótica, efectuada en el mismo lugar. Fue creada por profesores y estudiantes del Programa de Desarrollo de Sistemas Espaciales de la Universidad de Stanford en EEUU, para incentivar la construcción de prototipos aeroespaciales en miniatura.
 
 
-**Artículo oficial**: [Link](https://vinv.ucr.ac.cr/es/noticias/jovenes-universitarios-reciben-certificacion-internacional-en-coheteria)
+**Artículo oficial**: [https://vinv.ucr.ac.cr/es/noticias/jovenes-universitarios-reciben-certificacion-internacional-en-coheteria](https://vinv.ucr.ac.cr/es/noticias/jovenes-universitarios-reciben-certificacion-internacional-en-coheteria)
