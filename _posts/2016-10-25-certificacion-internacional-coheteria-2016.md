@@ -17,7 +17,7 @@ El nivel de certificación depende de la potencia de los motores que tienen los 
 
 La altura que alcance el proyectil obedece a diversos factores como el peso del fuselaje, que depende del material usado para construirlo. La altura también depende de la carga útil, que se transporte, como los instrumentos de medición y  finalmente, influye también el viento, entre otros factores.
 
-##Costa Rica por lo alto
+## Costa Rica por lo alto
 
 Los siete universitarios (as) ticos (as) recibieron certificación en los dos niveles. En el primero debieron construir el fuselaje del cohete, el motor y preparar el combustible. Seguidamente debieron lanzarlo hasta una altura de 1000 a 2000 m., respetando todas las medidas de seguridad. Finalmente, lograr la apertura correcta del paracaídas en el aire, para localizarlo y recuperarlo tras el aterrizaje.
 
@@ -43,7 +43,7 @@ La certificación garantiza que la persona es competente en todo el proceso de l
 
 Esto facilitará que ellos puedan realizar lanzamientos como parte de las labores de exhibición y educación que organiza el GIA, para promover la ciencia aeroespacial en nuestro país, destacó la profesora de Lemos.
 
-##Investigación y Enseñanza
+## Investigación y Enseñanza
 
 El lanzamiento de este tipo de cohetes permite realizar investigación, así como desarrollar las propias capacidades y herramientas en el campo de la ingeniería aeroespacial.
 
@@ -62,13 +62,15 @@ Tras su participación en el evento internacional, todos los (as) estudiantes se
 Por su parte la Ing.  de Lemos destacó que para la UCR es muy importante tener en sus filas científicos certificados en este campo, ya que “el Grupo de Ingeniería Aeroespacial (GIA) de la Escuela de Ingeniería Mecánica puede tener mayor certeza de que se están trabajando la cohetería de manera segura y que vamos perfeccionando todo el proceso del lanzamiento de cohetes”.
 
 Más información al correo-e: leonora.delemos@ucr.ac.cr o al teléfono (506) 2511-5576.
-Artículo oficial: ![Link](https://vinv.ucr.ac.cr/es/noticias/jovenes-universitarios-reciben-certificacion-internacional-en-coheteria)
+
+Artículo oficial: https://vinv.ucr.ac.cr/es/noticias/jovenes-universitarios-reciben-certificacion-internacional-en-coheteria
 
 Anexos.
-**Balls**.
+
+**Balls**:
 El principal evento mundial de cohetería de alta potencia se llama “Balls”, de su nombre original “FireBalls” que significa “Bolas de Fuego”. Este se realiza en EEUU  con una duración de  tres a cuatro días.
 
 Es organizado y auspiciado por la Asociación de Cohetería Tripoli (TRA, por sus siglas de Tripoli Rocketry Association). “Balls”  se celebra desde hace más de veinte años en el desierto de Black Rock, al norte de la ciudad de Reno, en el estado de Nevada en EUA. Actualmente los cohetes lanzados alcanzan elevadas alturas.
 
-**ARLISS**.
+**ARLISS**:
 ARLISS es una competencia de cohetería combinada con robótica, efectuada en el mismo lugar. Fue creada por profesores y estudiantes del Programa de Desarrollo de Sistemas Espaciales de la Universidad de Stanford en EEUU, para incentivar la construcción de prototipos aeroespaciales en miniatura.
